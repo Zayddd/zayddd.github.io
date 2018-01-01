@@ -1,0 +1,75 @@
+==================================================================
+https://keybase.io/depression
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://zaydd.pw
+  * I am depression (https://keybase.io/depression) on keybase.
+  * I have a public key with fingerprint E48C 56B9 1458 8430 BA85  BF24 3D97 E037 BC34 68DF
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120411f2fa7f9adc431dc65ab46e5e6e8bfb3aa0d72a1e636ac296862dd92f2c2df0a",
+      "fingerprint": "e48c56b914588430ba85bf243d97e037bc3468df",
+      "host": "keybase.io",
+      "key_id": "3d97e037bc3468df",
+      "kid": "010188ea13d53d9a8c92fc67b2a2f2243a92db29e8624ef58d08a1b542df0357bf180a",
+      "uid": "74fd2e753c4e2cd9afcadf0a6667fc19",
+      "username": "depression"
+    },
+    "service": {
+      "hostname": "zaydd.pw",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1514839449,
+  "expire_in": 157680000,
+  "prev": "e93aa6fabdefdb3af6dae1e2f45a5f690a7171481727359b415ce7a1f7ddfc0e",
+  "seqno": 20,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.76
+Comment: https://keybase.io/crypto
+
+yMNpAnicbZJ9TFVlHMcvGSDkC8RY0yLgcBeGDM/7yyWNsaSEStduLAzD55znOXBA
+7z33BeiCRJJFc4jIasUQKu4tgbVeoDDBxXAyCGnGYKJlQob3zrIgseJFoecw/a/z
+z7Pz2/f7eb6/3/M7u3aVKTxo63uTwmm2YCLoXN+7xabdmU0N5YRshx7CUk4UoZUD
+7YPI5c4r0iBhIUiKJlmKUmkVCKoEoMIyFFR4DsgsjzjEI1FWZQYAEgo0oBDP8ECh
+JV7kaQglWqUVGqokIJIJVbPlI6fu1GxujEWsqHC8LFEsJ4osQ8pA5GSVZhkoCYhk
+BFlhWF6EKjYW2F2GA4eTgQulaHZcwz95K/H+R38vN0mJIgIUAzksAqKC0yi8INMA
+p8IXAYmGMi0hnJRFKidCUgSUzLFGXoYTZJUSV3IXr+AEVoU0EjhGYRGtYJ6qAKMx
+nucFVaEkQ+hCThvYj7AaIt2JXC7NbiMqkglcL9EUZIzW6OWupgx4IEzRS7FTd9rd
+dsW+D1cL3G7dYpjcHt1QlSI5764/T9ZsEA8RG0qQcwVuobBScWsGkOIoVmQklpWS
+CfSqrjlRnmYoOIEXSfwZ16ASY/QSfi5eBTJEKsRPp/IQIArRKssBTuUlEgiUgFmU
+QAsMJ8ksxSlIAJQqQKgqJCKMjhw2O2GhMdQN8jHTpeXbgLvYiYiKM32595uCwk0h
+wfcZ22UKD4u4t3Pn/RGmqjfe0fXHoisfH/sksqw62r/I7QgLSb7YysZd39R+8Ief
+fVd+nUtYmP2lqPuDTze0D+3pbJ1Y/uP98rGnb4w0fVm87EgtTP+o44L50cSpw+Yt
+vd89GzMVVe+qiyk0zbzu7R/IutwjBi+mXavcu+1GYmcgyTE33H71wlilZ+zPnPSb
+sbaaI6sdtYfSXMEVzUvy5YjY2I1V+zevGvXt6fmwsZF/sf2p0cC64d+HYydfatt6
+QCnxyoeSZBjpiQ8OfLUu9R+bv4D/6+ix/q5m6wL1StLLs6Yizd+1vj4kvPKZFuWa
+/4vp0OqggNw6zfyWolszO0b9yVE7QgefaG86Grsz13GwbnHNkUuzvcSWrFoH9+3i
+0MjHDmtbTWXRFfK1bOvNxBzr2YX5Pt/XnMi9oE8kdHeaM27VeUd6ogvwnmQOTDY/
+ktT/eUNq+omWpZy27APn75htu2KC9FNVu6jG8U7zpu7uybDGlqiHRpa7KkIHI+NW
+ryleynhyIDf3M2abt+1kzhArF+5uCK65WBg1+/yct8y38c2lkxPKQHl9SNpzP6VM
+b7BOxY+cuUPWmmd+nHrw+78HRy/lbI5ZnHd9Y69+4Pr2rKyrHl+oa6A0AGZO9a2v
+DGTsHYz3zdfe7jg9E2Phe85th2uPW2r/Pe6tn/EsLPS6ncfipHFzwrh06/bDb7/F
+lZ7I3in1/gcTQMwb
+=s5/7
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/depression
+
+==================================================================
